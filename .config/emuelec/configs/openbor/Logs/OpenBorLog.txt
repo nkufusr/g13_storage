@@ -1,0 +1,7 @@
+Total Ram:  2082803712 Bytes (  1986 MB )
+ Free Ram:   913432576 Bytes (   871 MB )
+ Used Ram:     1053696 Bytes (     1 MB )
+
+debug:nativeWidth, nativeHeight, bpp, Hz  1280, 720, 24, 60
+GameSir G3w (device #0, SDL ID 0) is a game controller.
+GameSir G3w #2 (device #1, SDL ID 1) is a game controller.

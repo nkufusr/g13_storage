@@ -1,8 +1,0 @@
-[ethernet_f224f2e656f1_cable]
-Name=Wired
-AutoConnect=true
-Modified=2025-06-28T12:52:39Z
-IPv4.method=dhcp
-IPv4.DHCP.LastAddress=192.168.100.115
-IPv6.method=off
-IPv6.privacy=disabled

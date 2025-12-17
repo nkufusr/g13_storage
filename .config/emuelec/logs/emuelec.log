@@ -1,0 +1,42 @@
+EmuELEC Run Log
+##############################################
+#                 EmuELEC                    #
+#     Retro emulation for Amlogic Devices    #
+#             Based on CoreELEC              #
+##############################################
+EmuELEC (Community - EmuELEC is FREE! NOT FOR SALE!): 4.3 (Amlogic-ng.aarch64)
+PLATFORM: psp
+ROM NAME: /storage/roms/psp/God of War - Ghost of Sparta.cso
+BASE ROM NAME: God of War - Ghost of Sparta.cso
+USING CONFIG: /storage/.config/retroarch/retroarch.cfg
+1st Argument: /storage/roms/psp/God of War - Ghost of Sparta.cso
+2nd Argument: -Ppsp
+3rd Argument: --core=PPSSPPSDL
+4th Argument: --emulator=PPSSPPSDL
+Full arguments: /storage/roms/psp/God of War - Ghost of Sparta.cso -Ppsp --core=PPSSPPSDL --emulator=PPSSPPSDL --controllers=-p1index 0 -p1guid 03000000bc2000000055000011010000 -p2index 1 -p2guid 03000000bc2000000055000011010000 
+Run Command is:
+/usr/bin/bash ppsspp.sh /storage/roms/psp/God of War - Ghost of Sparta.cso
+Emulator Output is:
+[?25l29:43:301 Core/Config.cpp:627 I[G3D]: Longest display side: -1 pixels. Choosing scale 1
+VulkanMayBeAvailable: Device allowed ('SDL:Linux')
+Vulkan loader: Library not available
+DEBUG: Vulkan is not available, not using Vulkan.
+Info: We compiled against SDL version 2.0.9 and we are linking against SDL version 2.0.9. :)
+ThreadManager::Init(compute threads: 4, all: 8)
+Pixels: 1280 x 720
+Virtual pixels: 1280 x 720
+loading control pad mappings from gamecontrollerdb.txt: SUCCESS!
+found control pad: Twin USB Joystick, loading mapping: SUCCESS, mapping is:
+03000000bc2000000055000011010000,Twin USB Joystick,platform:Linux,leftstick:b13,rightx:a2,leftshoulder:b6,start:b11,lefty:a1,dpup:h0.1,righty:a3,a:b1,b:b0,guide:b10,dpdown:h0.4,rightshoulder:b7,righttrigger:b9,rightstick:b14,dpright:h0.2,x:b4,back:b10,leftx:a0,y:b3,dpleft:h0.8,lefttrigger:b8,
+found control pad: Twin USB Joystick, loading mapping: SUCCESS, mapping is:
+03000000bc2000000055000011010000,Twin USB Joystick,platform:Linux,leftstick:b13,rightx:a2,leftshoulder:b6,start:b11,lefty:a1,dpup:h0.1,righty:a3,a:b1,b:b0,guide:b10,dpdown:h0.4,rightshoulder:b7,righttrigger:b9,rightstick:b14,dpright:h0.2,x:b4,back:b10,leftx:a0,y:b3,dpleft:h0.8,lefttrigger:b8,
+pad 1 has been assigned to control pad: Twin USB Joystick
+found control pad: Twin USB Joystick, loading mapping: SUCCESS, mapping is:
+03000000bc2000000055000011010000,Twin USB Joystick,platform:Linux,leftstick:b13,rightx:a2,leftshoulder:b6,start:b11,lefty:a1,dpup:h0.1,righty:a3,a:b1,b:b0,guide:b10,dpdown:h0.4,rightshoulder:b7,righttrigger:b9,rightstick:b14,dpright:h0.2,x:b4,back:b10,leftx:a0,y:b3,dpleft:h0.8,lefttrigger:b8,
+found control pad: Twin USB Joystick, loading mapping: SUCCESS, mapping is:
+03000000bc2000000055000011010000,Twin USB Joystick,platform:Linux,leftstick:b13,rightx:a2,leftshoulder:b6,start:b11,lefty:a1,dpup:h0.1,righty:a3,a:b1,b:b0,guide:b10,dpdown:h0.4,rightshoulder:b7,righttrigger:b9,rightstick:b14,dpright:h0.2,x:b4,back:b10,leftx:a0,y:b3,dpleft:h0.8,lefttrigger:b8,
+ALSA lib /home/emuelec/EmuELEC/build.EmuELEC-Amlogic-ng.aarch64-4.3/alsa-lib-1.2.5.1/src/pcm/pcm.c:8559:(snd_pcm_recover) underrun occurred
+29:44:604 root         N[G3D]: GLES/ShaderManagerGLES.cpp:911 Precompiling the shader cache from '/storage/.config/ppsspp/PSP/SYSTEM/CACHE/UCES01401.glshadercache'
+29:44:611 root         N[G3D]: GLES/ShaderManagerGLES.cpp:991 Precompile: Compiled and linked 158 programs (78 vertex, 30 fragment) in 6.3 milliseconds
+29:44:611 root         N[BOOT]: UI/EmuScreen.cpp:341 Loading /storage/roms/psp/God of War - Ghost of Sparta.cso...
+[?12l[?25hLeaving mainexit 0

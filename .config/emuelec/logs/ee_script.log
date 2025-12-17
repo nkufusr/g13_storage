@@ -1,0 +1,24 @@
+EmuELEC Run Log
+##############################################
+#                 EmuELEC                    #
+#     Retro emulation for Amlogic Devices    #
+#             Based on CoreELEC              #
+##############################################
+EmuELEC (Community - EmuELEC is FREE! NOT FOR SALE!): 4.3 (Amlogic-ng.aarch64)
+PLATFORM: setup
+ROM NAME: /usr/bin/scripts/setup/install_drastic.sh
+BASE ROM NAME: install_drastic.sh
+USING CONFIG: /storage/.config/retroarch/retroarch.cfg
+1st Argument: /usr/bin/scripts/setup/install_drastic.sh
+2nd Argument: -Psetup
+3rd Argument: --core=
+4th Argument: --emulator=
+Full arguments: /usr/bin/scripts/setup/install_drastic.sh -Psetup --core= --emulator= --controllers=-p1index 0 -p1guid 03000000bc2000000055000011010000 -p2index 1 -p2guid 03000000bc2000000055000011010000 
+Run Command is:
+/usr/bin/bash fbterm.sh /usr/bin/scripts/setup/install_drastic.sh
+Emulator Output is:
+[H[J--2022-12-21 09:10:33--  https://raw.githubusercontent.com/shantigilbert/binaries-1/master/drastic.tar.gz
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 0.0.0.0
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|0.0.0.0|:443... failed: Connection refused.
+tar: short read
+[H[Jexit 0

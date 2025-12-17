@@ -1,0 +1,279 @@
+2015-01-01 08:00:45	INFO	EmulationStation - v31, built Mar  7 2023 - 12:34:01
+2015-01-01 08:00:45	INFO	Parsing XML file "/storage/.emulationstation/resources/genres.xml"...
+2015-01-01 08:00:45	INFO	Window::init
+2015-01-01 08:00:45	INFO	Creating window...
+2015-01-01 08:00:45	INFO	Created window successfully.
+2015-01-01 08:00:45	INFO	GL vendor:   ARM
+2015-01-01 08:00:45	INFO	GL renderer: Mali-G31
+2015-01-01 08:00:45	INFO	GL version:  OpenGL ES 3.2 git.c8adbf9.ad00b04c1b60847de257177231dc1a53
+2015-01-01 08:00:45	INFO	GL shading:  OpenGL ES GLSL ES 3.20
+2015-01-01 08:00:45	INFO	GL exts:     GL_ARM_rgba8 GL_ARM_mali_shader_binary GL_OES_depth24 GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_OES_packed_depth_stencil GL_OES_rgb8_rgba8 GL_EXT_read_format_bgra GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_standard_derivatives GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_image_external_essl3 GL_OES_EGL_sync GL_OES_texture_npot GL_OES_vertex_half_float GL_OES_required_internalformat GL_OES_vertex_array_object GL_OES_mapbuffer GL_EXT_texture_format_BGRA8888 GL_EXT_texture_rg GL_EXT_texture_type_2_10_10_10_REV GL_OES_fbo_render_mipmap GL_OES_element_index_uint GL_EXT_shadow_samplers GL_OES_texture_compression_astc GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_hdr GL_KHR_texture_compression_astc_sliced_3d GL_EXT_texture_compression_astc_decode_mode GL_EXT_texture_compression_astc_decode_mode_rgb9e5 GL_KHR_debug GL_EXT_occlusion_query_boolean GL_EXT_disjoint_timer_query GL_EXT_blend_minmax GL_EXT_discard_framebuffer GL_OES_get_program_binary GL_OES_texture_3D GL_EXT_texture_storage GL_EXT_multisampled_render_to_texture GL_OES_surfaceless_context GL_OES_texture_stencil8 GL_EXT_shader_pixel_local_storage GL_ARM_shader_framebuffer_fetch GL_ARM_shader_framebuffer_fetch_depth_stencil GL_ARM_mali_program_binary GL_EXT_sRGB GL_EXT_sRGB_write_control GL_EXT_texture_sRGB_decode GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OES_texture_storage_multisample_2d_array GL_OES_shader_image_atomic GL_EXT_robustness GL_EXT_draw_buffers_indexed GL_OES_draw_buffers_indexed GL_EXT_texture_border_clamp GL_OES_texture_border_clamp GL_EXT_texture_cube_map_array GL_OES_texture_cube_map_array GL_OES_sample_variables GL_OES_sample_shading GL_OES_shader_multisample_interpolation GL_EXT_shader_io_blocks GL_OES_shader_io_blocks GL_EXT_tessellation_shader GL_OES_tessellation_shader GL_EXT_primitive_bounding_box GL_OES_primitive_bounding_box GL_EXT_geometry_shader GL_OES_geometry_shader GL_ANDROID_extension_pack_es31a GL_EXT_gpu_shader5 GL_OES_gpu_shader5 GL_EXT_texture_buffer GL_OES_texture_buffer GL_EXT_copy_image GL_OES_copy_image GL_EXT_shader_non_constant_global_initializers GL_EXT_color_buffer_half_float GL_EXT_color_buffer_float GL_EXT_YUV_target GL_OVR_multiview GL_OVR_multiview2 GL_OVR_multiview_multisampled_render_to_texture GL_KHR_robustness GL_KHR_robust_buffer_access_behavior GL_EXT_draw_elements_base_vertex GL_OES_draw_elements_base_vertex GL_EXT_buffer_storage 
+2015-01-01 08:00:45	INFO	 ARB_texture_non_power_of_two: MISSING
+2015-01-01 08:00:46	ERROR	Resource path not found: :/splash.xml
+2015-01-01 08:00:46	INFO	Parsing XML file "/storage/.emulationstation/resources/mamenames.xml"...
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/.emulationstation/resources/mamebioses.xml"...
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/.emulationstation/resources/mamedevices.xml"...
+2015-01-01 08:00:47	INFO	Loading system config file /storage/.emulationstation/es_systems.cfg...
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "amstradgx4000" (platform "amstradgx4000" from list "amstradgx4000")
+2015-01-01 08:00:47	ERROR	System "amstradgx4000" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "imageviewer" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "amstradcpc" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "mame" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "arcade" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "cave" is missing name, path, extension, or command!
+2015-01-01 08:00:47	ERROR	System "pgm" is missing name, path, extension, or command!
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/roms/atari7800/gamelist.xml"...
+2015-01-01 08:00:47	WARNING	System "atari800" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "pgm2" is missing name, path, extension, or command!
+2015-01-01 08:00:47	ERROR	System "igs" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "atomiswave" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "wonderswan" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "wonderswancolor" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "cps1" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "cps2" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "cps3" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "colecovision" has no games! Ignoring it.
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/roms/atari5200/gamelist.xml"...
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "c128" (platform "c128" from list "c128")
+2015-01-01 08:00:47	WARNING	System "c128" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "c64" is missing name, path, extension, or command!
+2015-01-01 08:00:47	ERROR	System "amiga" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "amigacd32" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "c16" (platform "c16" from list "c16")
+2015-01-01 08:00:47	ERROR	System "psikyo" is missing name, path, extension, or command!
+2015-01-01 08:00:47	ERROR	System "vic20" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	ERROR	System "pc" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "pc-9800" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "daphne" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "wii" is missing name, path, extension, or command!
+2015-01-01 08:00:47	ERROR	System "gamecube" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "c16" has no games! Ignoring it.
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/roms/atarilynx/gamelist.xml"...
+2015-01-01 08:00:47	WARNING	System "msx" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "msx2" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "odyssey2" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "intellivision" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "mplayer" (platform "mplayer" from list "mplayer")
+2015-01-01 08:00:47	WARNING	System "mplayer" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "tvlive" (platform "mplayer" from list "mplayer")
+2015-01-01 08:00:47	ERROR	System "tvlive" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "vectrex" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "pcengine" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "pcenginecd" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "pcfx" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "supergrafx" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "tg16" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "tg16cd" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "n64" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "nes" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	System "nesh" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	System "fbn" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "fds" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "gb" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "gba" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "gbah" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "gbc" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "famicom" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "gbh" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "gameandwatch" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "sfc" (platform "sfc" from list "sfc")
+2015-01-01 08:00:47	WARNING	System "sfc" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "snes" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "snesh" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "snesmsu1" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "virtualboy" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "pokemini" has no games! Ignoring it.
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/roms/atari2600/gamelist.xml"...
+2015-01-01 08:00:47	WARNING	System "gbch" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "openbor" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "videopac" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "ports" (platform "ports" from list "ports")
+2015-01-01 08:00:47	WARNING	System "3do" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "residualvm" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	System "neogeo" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "neocd" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "ngp" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "ngpc" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "scummvm" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "sega32x" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "segacd" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "dreamcast" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "gamegear" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "ggh" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "genesis" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	ERROR	System "genh" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	System "mastersystem" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "megadrive" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "megadrive-japan" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "naomi" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "sc-3000" (platform "sc-3000" from list "sc-3000")
+2015-01-01 08:00:47	ERROR	System "sc-3000" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "sg-1000" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "setup" (platform "setup" from list "setup")
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/roms/ports_scripts/gamelist.xml"...
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	INFO	Parsing XML file "/usr/bin/scripts/setup/gamelist.xml"...
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	System "x68000" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "zxspectrum" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "zx81" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "psx" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "psp" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "pspminis" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "uzebox" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "solarus" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "pico8" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "prboom" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "tic-80" (platform "tic-80" from list "tic-80")
+2015-01-01 08:00:47	ERROR	System "tic-80" is missing name, path, extension, or command!
+2015-01-01 08:00:47	ERROR	System "easyrpg" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	System "ecwolf" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "supervision" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	  Unknown platform for system "freej2me" (platform "freej2me" from list "freej2me")
+2015-01-01 08:00:47	WARNING	System "freej2me" has no games! Ignoring it.
+2015-01-01 08:00:47	WARNING	System "saturn" has no games! Ignoring it.
+2015-01-01 08:00:47	ERROR	System "nds" is missing name, path, extension, or command!
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Basketbrawl (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Centipede (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Choplifter! (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Commando (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Crack'ed (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Crossbow (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Dark Chambers (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Desert Falcon (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Dig Dug (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Donkey Kong (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Donkey Kong Junior (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Double Dragon (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/F-18 Hornet (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Fatal Run (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Fight Night (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Food Fight (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Galaga (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Hat Trick (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Ikari Warriors (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Impossible Mission (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Jinks (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Joust (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Karateka (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Kung-Fu Master (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Mario Bros. (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Mat Mania Challenge (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Mean 18 Ultimate Golf (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Meltdown (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Midnight Mutants (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Motor Psycho (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Ms. Pac-Man (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Ninja Golf (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/One-on-One Basketball (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Planet Smashers (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Pole Position II (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Scrapyard Dog (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Sentinel (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Super Huey UH-IX (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Super Skateboardin' (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Title Match Pro Wrestling (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Tomcat - The F-14 Fighter Simulator (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Tower Toppler (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Xenophobe (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Xevious (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Ace of Aces (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Alien Brigade (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Ballblazer (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari7800/Barnyard Blaster (Europe).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/.emulationstation/recovery/setup/install_drastic.xml"...
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari2600/Demolition Herby (1982) (Telesys) (PAL) [p1][!].zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari2600/Exorcise (Adventure Hack).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari2600/Im Reich der Spinne (Starsoft) (PAL) [!].zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari2600/3-D Tic-Tac-Toe (32-in-1) (Atari) (PAL) [!].zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari2600/Aquaventure (1983) (Atari) (Prototype).zip" does not exist! Ignoring.
+2015-01-01 08:00:47	WARNING	File "/storage/roms/atari2600/Artillery Duel (1983) (Xonox) (PAL) [!].zip" does not exist! Ignoring.
+2015-01-01 08:00:47	INFO	Parsing XML file "/storage/roms/atarist/gamelist.xml"...
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	ERROR	Error parsing XML file "/storage/roms/atarist/gamelist.xml"!
+	No document element found
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:47	WARNING	Unknown property type "fontPath" (for element of type rating).
+2015-01-01 08:00:48	WARNING	ImageIO::loadImageSize	Unknown file type
+2015-01-01 08:00:48	WARNING	ImageIO::loadImageSize	Unknown file type
+2015-01-01 08:00:48	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:48	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:48	INFO	Added known joystick JHD49AF09A59AB (GUID: 03000000bc2000000055000011010000, instance ID: 0, device index: 0)
+2015-01-01 08:00:48	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:48	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:48	INFO	Added known joystick JHD49AF09A59AB (GUID: 03000000bc2000000055000011010000, instance ID: 1, device index: 1)
+2015-01-01 08:00:48	WARNING	ImageIO::loadImageSize	Unable to extract size
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari2600.jpg, data ptr: 590431920, reported size: 96852)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari2600.jpg, data ptr: 590431920, reported size: 96852)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari2600.jpg, data ptr: 590431920, reported size: 96852)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari2600.jpg, data ptr: 590431920, reported size: 96852)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari2600.jpg, data ptr: 590431920, reported size: 96852)
+2015-01-01 08:00:48	WARNING	ImageIO::loadImageSize	Unable to extract size
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 590017536, reported size: 71984)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 590017536, reported size: 71984)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 590017536, reported size: 71984)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 590017536, reported size: 71984)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 590017536, reported size: 71984)
+2015-01-01 08:00:48	WARNING	ImageIO::loadImageSize	Unable to extract size
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari7800.jpg, data ptr: 590431920, reported size: 114030)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari7800.jpg, data ptr: 590431920, reported size: 114030)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari7800.jpg, data ptr: 590431920, reported size: 114030)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari7800.jpg, data ptr: 590431920, reported size: 114030)
+2015-01-01 08:00:48	ERROR	Error - File type unknown!
+2015-01-01 08:00:48	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari7800.jpg, data ptr: 590431920, reported size: 114030)
+2015-01-01 08:00:48	INFO	SDL AUDIO Initialized
+2015-01-01 08:00:49	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:49	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:49	INFO	Added known joystick JHD49AF09A59AB (GUID: 03000000bc2000000055000011010000, instance ID: 2, device index: 0)
+2015-01-01 08:00:49	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:49	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=ShanWan Twin USB Joystick)
+2015-01-01 08:00:49	INFO	Added known joystick JHD49AF09A59AB (GUID: 03000000bc2000000055000011010000, instance ID: 3, device index: 1)
+2015-01-01 08:00:49	INFO	VolumeControl::init() - Unable to find mixer PCM -> Search for alternative mixer
+2015-01-01 08:00:49	INFO	mixername : DAC Digital
+2015-01-01 08:01:02	ERROR	Error - File type unknown!
+2015-01-01 08:01:02	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 594943152, reported size: 71984)
+2015-01-01 08:01:02	ERROR	Error - File type unknown!
+2015-01-01 08:01:02	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 594943152, reported size: 71984)
+2015-01-01 08:01:02	ERROR	Error - File type unknown!
+2015-01-01 08:01:02	ERROR	Error - File type unknown!
+2015-01-01 08:01:02	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari5200.jpg, data ptr: 547944657600, reported size: 71984)
+2015-01-01 08:01:02	ERROR	Could not initialize texture from memory, invalid data!  (file path: /storage/.emulationstation/themes/Alekfull-SOLO/assets/arts/atari2600.jpg, data ptr: 547675466560, reported size: 96852)
