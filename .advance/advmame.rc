@@ -1,0 +1,59 @@
+device_alsa_device sdl
+device_color_bgr15 no
+device_color_bgr8 no
+dir_artwork /storage/roms/mame/artwork
+dir_diff /storage/roms/mame/diff
+dir_hi /storage/roms/mame/hi
+dir_image /storage/roms/mame/image
+dir_inp /storage/roms/mame/inp
+dir_memcard /storage/roms/mame/memcard
+dir_nvram /storage/roms/mame/nvram
+dir_rom /storage/roms/mame
+dir_sample /storage/roms/mame/samples
+dir_snap /storage/roms/mame/snap
+dir_sta /storage/roms/mame/nvram
+record_sound no
+record_video no
+sound_latency 0.10
+sound_normalize no
+display_rgbeffect scan2horz
+display_vsync no
+device_video_clock 10-180 / 30-80 / 50-70
+
+input_map[coin2] joystick_button[twin_usb_joystick_2,button11]
+input_map[start2] joystick_button[twin_usb_joystick_2,button12]
+input_map[p2_button1] joystick_button[twin_usb_joystick_2,button2]
+input_map[p2_button2] joystick_button[twin_usb_joystick_2,button1]
+input_map[p2_button3] joystick_button[twin_usb_joystick_2,button5]
+input_map[p2_button4] joystick_button[twin_usb_joystick_2,button4]
+input_map[p2_button5] joystick_button[twin_usb_joystick_2,button8]
+input_map[p2_button6] joystick_button[twin_usb_joystick_2,button7]
+input_map[p2_button7] joystick_button[twin_usb_joystick_2,button10]
+input_map[p2_button8] joystick_button[twin_usb_joystick_2,button9]
+input_map[p2_up] joystick_button[twin_usb_joystick_2,button1] or joystick_digital[twin_usb_joystick_2,stick,y,up]
+input_map[p2_down] joystick_button[twin_usb_joystick_2,button1] or joystick_digital[twin_usb_joystick_2,stick,y,down]
+input_map[p2_right] joystick_button[twin_usb_joystick_2,button1] or joystick_digital[twin_usb_joystick_2,stick,x,right]
+input_map[p2_left] joystick_button[twin_usb_joystick_2,button1] or joystick_digital[twin_usb_joystick_2,stick,x,left]
+device_video_modeline 1280x720-60 91.517 1280 1440 1531 1691 720 810 812 902 +hsync +vsync
+device_joystick raw
+input_map[coin1] joystick_button[twin_usb_joystick,button11]
+input_map[start1] joystick_button[twin_usb_joystick,button12]
+input_map[p1_button1] joystick_button[twin_usb_joystick,button2]
+input_map[p1_button2] joystick_button[twin_usb_joystick,button1]
+input_map[p1_button3] joystick_button[twin_usb_joystick,button5]
+input_map[p1_button4] joystick_button[twin_usb_joystick,button4]
+input_map[p1_button5] joystick_button[twin_usb_joystick,button8]
+input_map[p1_button6] joystick_button[twin_usb_joystick,button7]
+input_map[p1_button7] joystick_button[twin_usb_joystick,button10]
+input_map[p1_button8] joystick_button[twin_usb_joystick,button9]
+input_map[p1_up] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,y,up]
+input_map[ui_up] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,y,up]
+input_map[p1_down] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,y,down]
+input_map[ui_down] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,y,down]
+input_map[p1_right] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,x,right]
+input_map[ui_right] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,x,right]
+input_map[p1_left] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,x,left]
+input_map[ui_left] joystick_button[twin_usb_joystick,button1] or joystick_digital[twin_usb_joystick,stick,x,left]
+input_map[ui_select] keyboard[0,enter] or keyboard[1,enter] or joystick_button[twin_usb_joystick,button2]
+input_map[ui_cancel] keyboard[0,backspace] or keyboard[1,backspace] or joystick_button[twin_usb_joystick,button15]
+input_map[ui_configure] keyboard[1,tab] or keyboard[0,tab] or joystick_button[twin_usb_joystick,button14]

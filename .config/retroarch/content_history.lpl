@@ -1,0 +1,1611 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/storage/roms/neogeo/3countb.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/new/Harry Potter and the Philosopher's Stone (Europe) (En,Fr,De).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/new/Harry Potter and the Chamber of Secrets (Europe) (En,Fr,De).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/new/Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 2) (Gran Turismo Mode).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/new/Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Arcade Mode).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/new/Gran Turismo (Europe) (En,Fr,De,Es,It).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/3do/Cannon Fodder (USA)/Cannon Fodder (USA).iso",
+      "label": "",
+      "core_path": "/tmp/cores/opera_libretro.so",
+      "core_name": "The 3DO Company - 3DO (Opera)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/fbneo/tron2.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fb_32b_libretro.so",
+      "core_name": "fb_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/fbneo/tron3.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fb_32b_libretro.so",
+      "core_name": "fb_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/fbneo/tron4.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fb_32b_libretro.so",
+      "core_name": "fb_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/zxspectrum/Tron.tzx",
+      "label": "",
+      "core_path": "/tmp/cores/fuse_libretro.so",
+      "core_name": "Sinclair - ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amstradcpc/Tron (UK) (1989).zip",
+      "label": "",
+      "core_path": "/tmp/cores/cap32_libretro.so",
+      "core_name": "Amstrad - CPC (Caprice32)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/gameandwatch/Tron (Tomytronic).zip",
+      "label": "",
+      "core_path": "/tmp/cores/gw_libretro.so",
+      "core_name": "Handheld Electronic (GW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/007 - Tomorrow Never Dies (USA).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/openice.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/720.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/arabfgt.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/aladbl.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Mario - Escape from the Jail.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Chameleon Twist 2 (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Chameleon Twist (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Luigi's Mansion 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Mario - Escape from the Jail.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Mario Kart 64 (U) (Super W00ting Hack).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Sonic Adventure 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Sonic Adventure 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Star Revenge 8 Sceptre of Hope.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Star Revenge 8 Sceptre of Hope.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Donkey Kong 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Donkey Kong 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/First Person SM64 mode.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 64_Multiplayer.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 64_Multiplayer.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 64 Last Impact.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 64 Last Impact.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/SM64 Sapphire 1.0.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/SM64 Sapphire 1.0.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/SM64 StarRevenge (v1.1) (English) (Hack by BroDute).zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/SM64 StarRevenge (v1.1) (English) (Hack by BroDute).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 64_The Missing Stars.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 64_The Missing Stars.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 74.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario 74.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario dk64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario dk64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario Fallen Stars.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario Fallen Stars.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario Odyssey 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario Star Road.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario Star Road.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario The Galactic Journey.zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Mario The Galactic Journey.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Smash Bros. 2 (Alpha) (SSB Hack by L.Y.R).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Wario 64 (Super Mario 64 Hack).zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Super Wario 64 (Super Mario 64 Hack).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Killer Instinct Gold (USA) (Rev B).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/NHL 99 (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Dr. Mario 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Magical Tetris Challenge (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Magical Tetris Challenge.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Clay Fighter - Sculptor's Cut (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Tony Hawk's Pro Skater (USA) (Rev A).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Carmageddon 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Star Fox 64 (USA) (Rev A).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Brunswick Circuit Pro Bowling (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mini Racers (Proto).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Milo's Astro Lanes (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mission Impossible (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Jeremy McGrath Supercross 2000 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Duke Nukem 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mortal Kombat Mythologies - Sub-Zero (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Nuclear Strike 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Ms. Pac-Man - Maze Madness (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Bomberman 64 - The Second Attack! (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Gex 64 - Enter the Gecko (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Ken Griffey Jr.'s Slugfest (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Dual Heroes (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Micro Machines 64 Turbo (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Super Smash Bros. (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Super Smash Bros. (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Fighter Destiny 2 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Super Bowling (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Forsaken 64 (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Forsaken 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Buck Bumble (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Buck Bumble (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Turok 3 - Shadow of Oblivion (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mega Man 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Starshot - Space Circus Fever (USA) (En,Fr,Es).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/F-1 World Grand Prix II (Europe) (En,Fr,De,Es).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Road Rash 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Kirby 64 - The Crystal Shards (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Tom and Jerry in Fists of Furry (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Super Mario 64 (BR).zip",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Super Mario 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Tarzan (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Duke Nukem - Zero Hour (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/F-1 World Grand Prix (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/NFL Blitz - Special Edition (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/NFL Blitz (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mario Kart 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mario Kart 64 (Europe).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/NBA Live 2000.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/NHL Breakaway 99 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/NHL Blades of Steel '99.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/PGA European Tour Golf.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/PGA European Tour (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Cruis'n World (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Battlezone - Rise of the Black Dogs (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Banjo-Tooie (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Banjo-Tooie (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/zxspectrum/The Asirus Settler.tzx",
+      "label": "",
+      "core_path": "/tmp/cores/fuse_libretro.so",
+      "core_name": "Sinclair - ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Asteroids Hyper 64 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Asteroids Hyper 64 (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Army Men - Air Combat (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/nes/Battletoads (Europe).zip",
+      "label": "",
+      "core_path": "/tmp/cores/fceumm_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/## HACKS ##/Luigi's Mansion 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Star Wars - Rogue Squadron (USA) (Rev A).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/International Track & Field - Summer Games.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/International Track & Field 2000 (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Kobe Bryant's NBA Courtside (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Kobe Bryant in NBA Courtside.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Madden NFL 2002.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Madden NFL 2000 (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mystical Ninja Starring Goemon (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Mystical Ninja 2 Starring Goemon.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Paper Mario (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Paper Mario (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Pokemon Snap.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Pokemon Snap (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Pokemon Stadium 2 (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Pokemon Snap (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Pokemon Stadium.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Tamagotchi 64.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/40 Winks (Proto).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/007 - The World Is Not Enough.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/007 - GoldenEye.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/007 - The World Is Not Enough (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/007 - The World Is Not Enough (USA).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/007 - GoldenEye (Europe).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/1080 Snowboarding (Japan, USA) (En,Ja).n64",
+      "label": "",
+      "core_path": "/tmp/cores/parallel_n64_32b_libretro.so",
+      "core_name": "parallel_n64_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/1080 Snowboarding (Japan, USA) (En,Ja).n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/fbneo/dkcbarrel.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/nesh/CONTRA.zip",
+      "label": "",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/nes/Contra (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/fceumm_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/tempest.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/orlegend.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/BatmanTheMovie_v1.2_2Disk.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/gba/Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).7z",
+      "label": "",
+      "core_path": "/tmp/cores/vbam_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/Disney's 101 Dalmatians II - Patch's London Adventure (USA).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/dreamcast/Disney's Donald Duck - Goin' Quackers (USA).chd",
+      "label": "",
+      "core_path": "/tmp/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/Disney's Donald Duck - Goin' Quackers.chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/Disney's Tarzan (USA).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/c64/Twin Kingdom Valley (Europe).zip",
+      "label": "",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/zxspectrum/Twin Kingdom Valley.tzx",
+      "label": "",
+      "core_path": "/tmp/cores/fuse_libretro.so",
+      "core_name": "Sinclair - ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/gbc/31-in-1 Mighty Mix (Australia) (31B-001, Sachen) (Unl).zip",
+      "label": "",
+      "core_path": "/tmp/cores/gearboy_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gearboy)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/Disney's Tarzan (USA).chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/snes/Hoshi no Kirby Super Deluxe (Japan).zip",
+      "label": "",
+      "core_path": "/tmp/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/c64/F-14 Tomcat (USA) (Disk 1 Side B).zip",
+      "label": "",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Donkey Kong 64 (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/Super Mario 64 (BR).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/xmen.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/kovsh.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/kov2.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/djboy.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/captaven.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/btoads.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/agallet.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/gtmr.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/ajaxj.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/airwolf.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/astorm.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/aliencha.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/aliensec.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/astorm.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/arabianm.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/alleymas.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/airwolf.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/brapboys.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psx/Tekken 3.chd",
+      "label": "",
+      "core_path": "/tmp/cores/pcsx_rearmed_32b_libretro.so",
+      "core_name": "pcsx_rearmed_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/snes/Secret of Evermore (Europe).zip",
+      "label": "",
+      "core_path": "/tmp/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/atarist/Compilations/Wild! CD 32 (19xx)(Wild!)(Disk 2 of 2).st",
+      "label": "",
+      "core_path": "/tmp/cores/hatari_libretro.so",
+      "core_name": "Atari - ST/STE/TT/Falcon (Hatari)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/c64/Licence to Kill (Europe).zip",
+      "label": "",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/c64/1943 - The Battle of Midway (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/n64/A, Bug's Life.n64",
+      "label": "",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/virtualboy/3-D Tetris (USA).zip",
+      "label": "",
+      "core_path": "/tmp/cores/mednafen_vb_libretro.so",
+      "core_name": "Nintendo - Virtual Boy (Beetle VB)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/fbneo/dynwarjr.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fb_32b_libretro.so",
+      "core_name": "fb_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/gba/Sonic the Hedgehog - Genesis (USA).7z",
+      "label": "",
+      "core_path": "/tmp/cores/vbam_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/c64/Destruct (Europe).zip",
+      "label": "",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/Zynaps_v1.0_0879.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/Zyconix_v1.0.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/Zoom_v1.0a_1910.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/Zool_v2.0_AGA_1675.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/Zool2_v1.0_AGA_0415.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/ZombieApocalypse_v1.0.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/ZombieApocalypse2_v1.0_AGA.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/amiga/Ziriax_v1.0.1.zip",
+      "label": "",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

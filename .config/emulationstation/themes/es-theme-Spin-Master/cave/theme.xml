@@ -1,0 +1,35 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<include subset="personagem" name="pokemon">./fundo/pokemon.xml</include>
+	<include subset="personagem" name="lego">./fundo/lego.xml</include>
+	<include subset="personagem" name="batman">./fundo/batman.xml</include>
+	<include subset="personagem" name="capitanamerica">./fundo/capitanamerica.xml</include>
+	<include subset="personagem" name="crash">./fundo/crash.xml</include>
+	<include subset="personagem" name="donkeykong">./fundo/donkeykong.xml</include>
+	<include subset="personagem" name="bowser">./fundo/bowser.xml</include>
+	<include subset="personagem" name="fatalfury">./fundo/fatalfury.xml</include>
+	<include subset="personagem" name="finalfantasy">./fundo/finalfantasy.xml</include>
+	<include subset="personagem" name="goodofwar">./fundo/goodofwar.xml</include>
+	<include subset="personagem" name="spiderman">./fundo/spiderman.xml</include>
+	<include subset="personagem" name="sonic">./fundo/sonic.xml</include>
+	<include subset="personagem" name="zelda">./fundo/zelda.xml</include>
+	<include subset="personagem" name="xmen">./fundo/xmen.xml</include>
+	<include subset="personagem" name="streetfighter">./fundo/streetfighter.xml</include>
+	<include subset="personagem" name="streetsofrage">./fundo/streetsofrage.xml</include>
+	<include subset="personagem" name="killerinstinct">./fundo/killerinstinct.xml</include>
+	<include subset="personagem" name="hulk">./fundo/hulk.xml</include>
+	<include subset="personagem" name="tekken">./fundo/tekken.xml</include>
+	<include subset="personagem" name="alvin">./fundo/alvin.xml</include>
+	<include subset="personagem" name="mortalkombat">./fundo/mortalkombat.xml</include>
+	<include subset="personagem" name="mario">./fundo/mario.xml</include>
+	<include subset="personagem" name="megaman">./fundo/megaman.xml</include>
+	<include subset="personagem" name="metalslug">./fundo/metalslug.xml</include>
+	
+
+	<view name="system, basic, detailed, video">
+		<image name="logo">
+			<path>./_inc/system.png</path>
+		</image>
+	</view>
+</theme>

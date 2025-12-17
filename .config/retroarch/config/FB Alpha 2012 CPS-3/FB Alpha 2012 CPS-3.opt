@@ -1,0 +1,3 @@
+fba-controls = "gamepad"
+fba-cpu-speed-adjust = "100"
+fba-diagnostics = "disabled"

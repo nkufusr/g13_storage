@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList parentHash="3931">
+	<game>
+		<path>./install_drastic.sh</path>
+		<name>Install Drastic</name>
+		<desc>Download and install Drastic, internet is required!</desc>
+		<image>./downloaded_images/drastic.png</image>
+		<developer>shantigilbert</developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<playcount>3</playcount>
+		<lastplayed>20221221T091052</lastplayed>
+		<gametime>52</gametime>
+	</game>
+</gameList>

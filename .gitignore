@@ -1,0 +1,52 @@
+# ROM 文件和游戏数据
+roms/
+Android/
+
+# 大型二进制文件
+cores/*.so
+cores/*.so.filepart
+*.filepart
+
+# 缓存和临时文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 下载目录
+downloads/
+
+# 存档和状态
+savefiles/
+savestates/
+
+# 缩略图
+thumbnails/
+
+# 系统文件
+lost+found/
+system/
+
+# 日志文件
+logs/
+playlists/logs/
+
+# 备份文件
+backup/
+*.bak
+
+# 大型数据库文件（金手指等）
+database/
+
+# 着色器
+shaders/
+
+# 覆盖层
+overlays/
+
+# 重映射
+remappings/
+
+# 有问题的文件
+joypads/USB gamepad           .cfg
+joypads/usb gamepad           .cfg
+
